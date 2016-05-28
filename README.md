@@ -9,6 +9,11 @@ Installation
 The easy way
 ------------
 
+**Python 3: on Raspbian GNU/Linux 8 (jessie)**
+
+    sudo apt-get install python3-pip
+    sudo pip-3 install pibrella
+
 **Python 3:**
 
     sudo apt-get install python3-pip
